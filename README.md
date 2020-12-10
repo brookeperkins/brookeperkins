@@ -13,20 +13,3 @@ I'm a frontend-leaning Full Stack Engineer with an abiding love for all things �
   <li><strong>Tools/Other:</strong> Webpack, REST APIs, Git/Github, Slack, VSCode, Postman, PGAdmin, Heroku, Adobe Creative Suite</li>
   <li><strong>Dev Practices:</strong> TDD, Pair/Mob Programming, Scrum</li>
 </ul>
-
-***
-
-<span align="center">
-  <a href="https://twitter.com/bbperkz">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
-  </a>
-  <a href="https://www.linkedin.com/in/brookeperkins/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="mailto:brookemmperkins@gmail.com?subject=[GitHub]%20👋%20Hey%20There&body=Hi%20Brooke,">
-    <img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white">
-  </a>
-  <a href="https://dev.to/brookeperkins">
-    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white">
-  </a>
-</span>

@@ -10,7 +10,7 @@ Tech Skills {
   testing_suites: [ 'Jest', 'Supertest', 'QUnit' ],
   tools_etc: [ 'Git/Github', 'Postman', 'PGAdmin', 'Heroku', 'Netlify', 'VSCode', 'Adobe CC' ],
   dev_practices: [ 'TDD', 'Remote Collaboration', 'Agile Methodologies' ],
-  currently_learning: [ 'Typescript', 'React Native', NextJS ]
+  currently_learning: [ 'Typescript', 'React Native', 'NextJS' ]
  }
 ```
 

@@ -1,16 +1,25 @@
 ![Banner](https://github.com/brookeperkins/brookeperkins/blob/main/bpbannerblack.png)
+<div align="center">
+  👉 <a href="https://www.brookeperkins.com/">check out my portfolio site!</a> 👈
+</div>
+<br>
 
-<span align="center"> 👋 I'm a frontend-leaning Full Stack Engineer with an abiding love for all things ✨design-related✨. My years of experience in the humanities have molded me into a skilled communicator and a strategic thinker— qualities that have proven useful in creating elegant, effective work that prioritizes the user's experience. I'm deeply moved by bold style guides and refactored code, and always aspire to contribute positive change to the world. I’m currently seeking opportunities that will capitalize on my creativity and allow me to make an impact. </span>
+<div align="center">Thanks for visiting my corner of Github! I'm a frontend-leaning Full Stack Engineer with an abiding love for all things ✨design-related.✨ I aim to make useful things, and believe that <em>all truly useful things should have an artfulness to them</em>. I also believe it's our duty to uplift and support the voices of marginalized folks, that Black lives matter, and that the internet should look cool, stay weird, and be `accessible` for everyone! I'm always trying to stay open-minded, learn more, and challenge myself. 
+  <br>
+  Check out what I'm working with lately: </div>
+<br>
+
+
 
 ```js
-Tech Skills {
+Skillz {
   languages: [ 'Javascript', 'HTML', 'CSS' ],
-  frameworks_and_libraries: [ 'React', 'Redux', 'Node', 'Express', 'SCSS' ],
+  frameworks_and_libraries: [ 'React', 'Next.js', 'Redux', 'Node', 'Express', 'SCSS' ],
   databases: [ 'SQL/Postgres' ],
   testing_suites: [ 'Jest', 'Supertest', 'QUnit' ],
-  tools_etc: [ 'Git/Github', 'Postman', 'PGAdmin', 'Heroku', 'Netlify', 'VSCode', 'Adobe CC' ],
+  tools_etc: [ 'Git/Github', 'Postman', 'PGAdmin', 'Heroku', 'Netlify', 'Adobe CC' ],
   dev_practices: [ 'TDD', 'Remote Collaboration', 'Agile Methodologies' ],
-  currently_learning: [ 'Typescript', 'React Native', 'NextJS' ]
+  currently_learning: [ 'Typescript', 'React Native' ]
  }
 ```
 

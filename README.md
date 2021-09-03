@@ -1,6 +1,6 @@
 ![Banner](https://github.com/brookeperkins/brookeperkins/blob/main/bpbannerblack.png)
 <div align="center">
-  👉 <a href="https://www.brookeperkins.com/">check out my portfolio site!</a> 👈
+  👉 <strong><a href="https://www.brookeperkins.com/">check out my portfolio site!</a></strong> 👈
 </div>
 <br>
 

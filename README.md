@@ -10,7 +10,7 @@ Thanks for visiting my corner of Github! I'm a frontend-leaning full-stack engin
 ```js
 Skillz {
   languages: [ 'Javascript', 'Typescript', 'Python', 'HTML', 'CSS' ],
-  frameworks_and_libraries: [ 'React', 'Redux', 'Next.js', 'Node', 'Express' ],
+  frameworks_and_libraries: [ 'React', 'Vue', 'Redux', 'Next.js', 'Node', 'Express' ],
   databases: [ 'SQL/Postgres' ],
   testing_suites: [ 'Jest', 'Supertest', 'QUnit' ],
   tools_etc: [ 'Git/hub', 'Postman', 'PGAdmin', 'Adobe CC' ],
